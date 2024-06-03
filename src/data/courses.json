@@ -1,0 +1,157 @@
+{
+    "courses" :[
+      {
+        "id": 1,
+        "title": "Startup Fundamentals",
+        "slug": "startup-fundamentals",
+        "description": "Learn the basics of starting a new business, from idea validation to product launch.",
+        "price": 199.99,
+        "isFeatured": true,
+        "instructor": "Jane Doe",
+        "image": "https://images.unsplash.com/photo-1542744094-24638eff58bb"
+      },
+      {
+        "id": 2,
+        "title": "Business Plan Mastery",
+        "slug": "business-plan-mastery",
+        "description": "Master the art of writing a business plan that attracts investors and sets your startup up for success.",
+        "price": 149.99,
+        "isFeatured": false,
+        "instructor": "John Smith",
+        "image": "https://images.unsplash.com/photo-1527249364539-5b70dbba5334"
+      },
+      {
+        "id": 3,
+        "title": "Pitching to Investors",
+        "slug": "pitching-to-investors",
+        "description": "Learn how to craft and deliver a compelling pitch that gets investors interested in your startup.",
+        "price": 99.99,
+        "isFeatured": true,
+        "instructor": "Emily Johnson",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f20b2e"
+      },
+      {
+        "id": 4,
+        "title": "Marketing for Startups",
+        "slug": "marketing-for-startups",
+        "description": "Understand the key marketing strategies to grow your startup and reach your target audience.",
+        "price": 129.99,
+        "isFeatured": false,
+        "instructor": "Michael Brown",
+        "image": "https://images.unsplash.com/photo-1507537297725-24a1c029d3ca"
+      },
+      {
+        "id": 5,
+        "title": "Finance and Accounting",
+        "slug": "finance-and-accounting",
+        "description": "Gain essential knowledge of finance and accounting principles to manage your startup's finances effectively.",
+        "price": 179.99,
+        "isFeatured": true,
+        "instructor": "Laura Wilson",
+        "image": "https://images.unsplash.com/photo-1565512134807-7818e11048a8"
+      },
+      {
+        "id": 6,
+        "title": "Leadership and Management",
+        "slug": "leadership-and-management",
+        "description": "Develop your leadership and management skills to effectively lead your startup team to success.",
+        "price": 189.99,
+        "isFeatured": false,
+        "instructor": "David Lee",
+        "image": "https://images.unsplash.com/photo-1556761175-4b46a572b786"
+      },
+      {
+        "id": 7,
+        "title": "Customer Acquisition",
+        "slug": "customer-acquisition",
+        "description": "Learn strategies for acquiring and retaining customers for your startup.",
+        "price": 159.99,
+        "isFeatured": true,
+        "instructor": "Susan Green",
+        "image": "https://images.unsplash.com/photo-1515162305280-21e9c5f3a789"
+      },
+      {
+        "id": 8,
+        "title": "Digital Marketing Essentials",
+        "slug": "digital-marketing-essentials",
+        "description": "Understand the basics of digital marketing to grow your online presence.",
+        "price": 139.99,
+        "isFeatured": false,
+        "instructor": "Paul White",
+        "image": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514"
+      },
+      {
+        "id": 9,
+        "title": "E-commerce Strategies",
+        "slug": "e-commerce-strategies",
+        "description": "Learn how to build and grow a successful e-commerce business.",
+        "price": 149.99,
+        "isFeatured": true,
+        "instructor": "Olivia Martin",
+        "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2"
+      },
+      {
+        "id": 10,
+        "title": "Scaling Your Business",
+        "slug": "scaling-your-business",
+        "description": "Understand the strategies and challenges of scaling a startup.",
+        "price": 169.99,
+        "isFeatured": false,
+        "instructor": "James Brown",
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
+      },
+      {
+        "id": 11,
+        "title": "Fundraising for Startups",
+        "slug": "fundraising-for-startups",
+        "description": "Learn how to raise capital from investors to grow your startup.",
+        "price": 199.99,
+        "isFeatured": true,
+        "instructor": "Karen Taylor",
+        "image": "https://images.unsplash.com/photo-1564866657315-94c1ebfea85b"
+      },
+      {
+        "id": 12,
+        "title": "Product Management",
+        "slug": "product-management",
+        "description": "Learn how to manage a product from idea to launch.",
+        "price": 149.99,
+        "isFeatured": false,
+        "instructor": "Daniel Clark",
+        "image": "https://images.unsplash.com/photo-1593642632559-0c3f5c61b6b6"
+      },
+      {
+        "id": 13,
+        "title": "Social Media Marketing",
+        "slug": "social-media-marketing",
+        "description": "Develop a social media strategy to promote your startup.",
+        "price": 119.99,
+        "isFeatured": true,
+        "instructor": "Emma Wilson",
+        "image": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2"
+      },
+      {
+        "id": 14,
+        "title": "Sales Techniques",
+        "slug": "sales-techniques",
+        "description": "Learn effective sales techniques to boost your startup's revenue.",
+        "price": 129.99,
+        "isFeatured": false,
+        "instructor": "George Thompson",
+        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+      },
+      {
+        "id": 15,
+        "title": "Innovation and Creativity",
+        "slug": "innovation-and-creativity",
+        "description": "Foster innovation and creativity within your startup.",
+        "price": 179.99,
+        "isFeatured": true,
+        "instructor": "Isabella Martinez",
+        "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d"
+      }
+    ]
+    
+    
+}
+  
