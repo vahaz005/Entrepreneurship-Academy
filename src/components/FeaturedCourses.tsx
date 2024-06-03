@@ -18,7 +18,7 @@ interface Course {
 function FeaturedCourses() {
    const FeaturedCourses = coursesData.courses.filter(course => course.isFeatured) 
   return (
-    <div className='py-12 bg-gray-900' >
+    <div className=' mt-4 py-12 bg-gray-900' >
         <div>
             <div className='text-center'>
 <h2 className='text-base text-teal-600 font-semibold tracking-wide uppercase'>FEATURED COURSES</h2>
